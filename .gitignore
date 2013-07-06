@@ -16,5 +16,8 @@
 *.out
 *.app
 
-#executable dir
+# executable dir
 bin/
+
+# vagrant dir
+.vagrant/
